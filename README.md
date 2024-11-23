@@ -13,7 +13,7 @@ Goal: Train and test models to distinguish between normal and malicious IoT netw
 
 Flow Diagram:
 
-![Flow Diagram](path_to_image/A_simple_flow_diagram_for_a_machine_learning-based.png)
+![Flow Diagram](https://github.com/JenishPatelx/Anomaly-Detection-in-IoT-Traffic/blob/main/DALL·E%202024-11-23%2011.50.56%20-%20A%20simple%20flow%20diagram%20for%20a%20machine%20learning-based%20network%20anomaly%20detection%20project.%20The%20diagram%20consists%20of%20a%20linear%20flow%20with%20the%20following%20compone.jpg)
 
 
 Outputs:
